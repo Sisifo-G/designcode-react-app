@@ -5,7 +5,9 @@ const IndexPage = () => (
   <div>
     <div className="Hero">
       <div className="HeroGroup">
-        <h1>Learn to design code React Apps</h1>
+        <h1>
+          Learn to <br /> design code React Apps
+        </h1>
         <p>
           Complete courses about the best tools and design systems. Prototype
           and build apps with React and Swift build
